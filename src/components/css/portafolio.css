@@ -1,0 +1,64 @@
+.class-descip{
+    padding: 0 2vw 0 2vw;
+    font-size: clamp(1em, 1.6vw, 9999vw);
+    text-align: justify;
+}
+#descip{
+    color: greenyellow;
+}
+.image-ruta{
+    border-radius: 10px;
+    width: 100%;
+}
+.text-size-min-max{
+    font-size: clamp(1em, 1.6vw, 9999vw);
+}
+
+.logo-fond{
+    background-image: url("../../../public/barnr.png");
+    background-size: 115% 200%;
+    background-repeat: no-repeat;
+    background-position-y: top;
+    background-position-x: right;
+}
+.bordos{
+    border: 2px solid rgb(157, 129, 223);
+}
+.padin{
+    padding: 0 1em 0 1em ;
+}
+.botoncito{
+    justify-content: center;
+    display: flex;
+    width: 100%;
+}
+.portadaAlbum{
+    width: 50%;
+    border: 0px;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px black;
+    position: relative;
+    display: inline-block;
+    text-align: center;
+    overflow: hidden;
+    margin: auto;
+}
+.portadaAlbum img{
+    width: 100%;
+    border-radius: 20px;
+    height: auto;
+}
+.portadaAlbum:hover{
+    scale: 1.05;
+}
+.portadaAlbum:after {
+    content: "ver más fotos";
+    position: absolute;
+    border-radius: 20px;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white; /* Ajusta el color del texto según sea necesario */
+    background-color: rgba(0, 0, 0, 0.8); /* Fondo semitransparente para el texto */
+    padding: 10px 20px;
+  }
