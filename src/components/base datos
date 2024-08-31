@@ -1,0 +1,51 @@
+Almuerzo
+false
+(booleano)
+
+Description
+"Sumérgete en la aventura de explorar el fascinante Organal de Carolina del Príncipe, donde el espeleismo te llevará a un emocionante viaje bajo tierra. Experimenta la adrenalina mientras te adentras en un entorno oscuro y acuático, desafiando tus límites y explorando la belleza natural subterránea."
+(cadena)
+
+Distancia
+"3 km"
+(cadena)
+
+GradoDificultad
+"2.5 - 3 - 4.5 (nivel 1, 2, 3 respectivamente)"
+(cadena)
+
+Nombre
+"Las Cavernas"
+(cadena)
+
+album
+"https://firebasestorage.googleapis.com/v0/b/caroltur-2023.appspot.com/o/portafolio%2Fcavernas%2Fcavernas1.jpeg?alt=media&token=c1a46922-acf4-4a8b-a655-895fa23ad034<->https://firebasestorage.googleapis.com/v0/b/caroltur-2023.appspot.com/o/portafolio%2Fencanto%2Fencanto1.jpeg?alt=media&token=bcd2b4fc-bfee-45ed-b76f-924b3c789a40<->https://firebasestorage.googleapis.com/v0/b/caroltur-2023.appspot.com/o/portafolio%2Fcascadas%2Fcascadas1.jpeg?alt=media&token=78eb2748-33c6-4cd2-bdbd-f232a2d1539e<->https://firebasestorage.googleapis.com/v0/b/caroltur-2023.appspot.com/o/portafolio%2Fcafeteras%2Fcafeteras1.jpeg?alt=media&token=daea104f-7c81-41e0-8132-5cbd7486b413<->https://firebasestorage.googleapis.com/v0/b/caroltur-2023.appspot.com/o/portafolio%2Fholanda%2Fholanda1.jpeg?alt=media&token=4ac3f683-3d9a-4509-a7b3-fbaf9d807c38<->https://firebasestorage.googleapis.com/v0/b/caroltur-2023.appspot.com/o/portafolio%2Fchorrera%2Fchorrera1.jpeg?alt=media&token=98454aed-7c5a-4d5d-8ef1-87221766fed8"
+(cadena)
+
+atractivos
+"Emoción del espeleismo en cuevas rocosas. -Senderismo en un bosque nativo premontano. -Observación de la rica flora y fauna autóctonas."
+(cadena)
+
+incluye
+"Guía local experto. -Préstamo de equipo de seguridad (cascos y linternas). -Seguro de asistencia médica durante la actividad."
+(cadena)
+
+municipio
+"Carolina del Príncipe"
+(cadena)
+
+rDescripcion
+"¡Explora Las Cavernas y vive una experiencia única de espeleismo en un entorno subterráneo emocionante y oscuro! Atrévete a adentrarte en cuevas rocosas mientras desafías tus límites y te conectas con la naturaleza."
+(cadena)
+
+recomendaciones
+"Ropa cómoda preferiblemente oscura. -Nada que no pueda mojar pues se va a mojar completamente. -No llevar cosas que ocupe las manos ni objetos de valor. (podemos guardar lo de las en un lugar seguro donde nos dejan guardarlo pero mejor no llevar nada de valor). -Si quiere llevar linterna que sea manos libres osea de las de poner en la cabeza. -Si desea llevar celular para el registro fotográfico se recomienda llevar estuche para protegerlo del agua."
+(cadena)
+
+tipo
+"Espeleismo"
+(cadena)
+
+url
+"https://firebasestorage.googleapis.com/v0/b/caroltur-2023.appspot.com/o/portafolio%2Fcavernas%2Fcavernas1.jpeg?alt=media&token=c1a46922-acf4-4a8b-a655-895fa23ad034"
+(cadena)

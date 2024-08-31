@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.45c522d7.css",
+    "main.js": "/static/js/main.33aa47b1.js",
+    "static/media/planes2.jpg": "/static/media/planes2.ff755b000f6e526095eb.jpg",
+    "static/media/barnr.png": "/static/media/barnr.2d905f95e1010aac5d3a.png",
+    "static/media/hoteles2.jpg": "/static/media/hoteles2.22461088d047b6fdcace.jpg",
+    "static/media/carolina.jpeg": "/static/media/carolina.d0ad924030ebac8c608d.jpeg",
+    "static/media/image_metalica_logo.png": "/static/media/image_metalica_logo.44168ca51c09d66ca1b9.png",
+    "static/media/hoteles3.jpg": "/static/media/hoteles3.8475aab18dab6bb715b2.jpg",
+    "static/media/hoteles1.jpg": "/static/media/hoteles1.56d76294b48664eddf25.jpg",
+    "static/media/BackgroundBaner.png": "/static/media/BackgroundBaner.875351bff95c32844e70.png",
+    "static/media/planes1.jpeg": "/static/media/planes1.d9784ad3f61c9b8a2f46.jpeg",
+    "index.html": "/index.html",
+    "main.45c522d7.css.map": "/static/css/main.45c522d7.css.map",
+    "main.33aa47b1.js.map": "/static/js/main.33aa47b1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.45c522d7.css",
+    "static/js/main.33aa47b1.js"
+  ]
+}
