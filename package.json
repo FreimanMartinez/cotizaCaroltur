@@ -3,6 +3,8 @@
   "version": "0.1.0",
   "private": true,
   "homepage": "https://FreimanMartinez.github.io/cotizaCaroltur",
+  "predeploy": "npm run build",
+  "deploy": "gh-pages -d build",
   "dependencies": {
     "@mui/material": "^5.15.14",
     "@testing-library/jest-dom": "^5.17.0",
